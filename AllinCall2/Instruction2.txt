@@ -1,0 +1,19 @@
+*** How to run the code ***
+	Extract the file in the attachement
+	Open CMD
+	Reach to the Extracted file in the cmd
+	Once AllinCall2 is reached enter the command- app2.py
+	press Enter
+	In a browser open localhost:5000
+	In City(hsr layout) search for either Gurgaon, Pune, Noida, Banglore (oyolife is present in only these 4 location uptill now)
+	all hotels with that city is obtained along with details of     "Property name"
+            								"id"
+            								"hsr layout"
+            								"co-ordinates"
+            								"location"
+            								"Sharing room price"
+            								"Private room price"
+
+
+ 
+	
